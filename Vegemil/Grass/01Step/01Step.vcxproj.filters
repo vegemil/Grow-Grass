@@ -13,18 +13,27 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\Question">
+      <UniqueIdentifier>{41abbfa9-d64c-4d17-a101-57d38862e72c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Q2557.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="Question\Q10718.cpp">
+      <Filter>소스 파일\Question</Filter>
+    </ClCompile>
+    <ClCompile Include="Question\Q2557.cpp">
+      <Filter>소스 파일\Question</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Q2557.h">
-      <Filter>헤더 파일</Filter>
+    <ClInclude Include="Question\Q10718.h">
+      <Filter>소스 파일\Question</Filter>
+    </ClInclude>
+    <ClInclude Include="Question\Q2557.h">
+      <Filter>소스 파일\Question</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
