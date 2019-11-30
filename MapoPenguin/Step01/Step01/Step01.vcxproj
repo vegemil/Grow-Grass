@@ -124,6 +124,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="2557.cpp" />
+    <ClCompile Include="10718.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Q10171.cpp" />
+    <ClCompile Include="Q10172.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="10718.h" />
+    <ClInclude Include="Q10171.h" />
+    <ClInclude Include="Q10172.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
