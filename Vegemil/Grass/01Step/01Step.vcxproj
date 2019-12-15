@@ -130,6 +130,7 @@
     <ClCompile Include="Question\Q10171.cpp" />
     <ClCompile Include="Question\Q10172.cpp" />
     <ClCompile Include="Question\Q10718.cpp" />
+    <ClCompile Include="Question\Q10869.cpp" />
     <ClCompile Include="Question\Q10998.cpp" />
     <ClCompile Include="Question\Q2557.cpp" />
     <ClCompile Include="Question\Q7287.cpp" />
@@ -141,6 +142,7 @@
     <ClInclude Include="Question\Q10171.h" />
     <ClInclude Include="Question\Q10172.h" />
     <ClInclude Include="Question\Q10718.h" />
+    <ClInclude Include="Question\Q10869.h" />
     <ClInclude Include="Question\Q10998.h" />
     <ClInclude Include="Question\Q2557.h" />
     <ClInclude Include="Question\Q7287.h" />
