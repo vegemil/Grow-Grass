@@ -126,6 +126,7 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Question\Q1000.cpp" />
     <ClCompile Include="Question\Q1001.cpp" />
+    <ClCompile Include="Question\Q1008.cpp" />
     <ClCompile Include="Question\Q10171.cpp" />
     <ClCompile Include="Question\Q10172.cpp" />
     <ClCompile Include="Question\Q10718.cpp" />
@@ -136,6 +137,7 @@
   <ItemGroup>
     <ClInclude Include="Question\Q1000.h" />
     <ClInclude Include="Question\Q1001.h" />
+    <ClInclude Include="Question\Q1008.h" />
     <ClInclude Include="Question\Q10171.h" />
     <ClInclude Include="Question\Q10172.h" />
     <ClInclude Include="Question\Q10718.h" />
