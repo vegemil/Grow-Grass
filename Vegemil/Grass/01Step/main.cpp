@@ -6,7 +6,9 @@
 //#include "Question/Q10172.h"
 //#include "Question/Q7287.h"
 //#include "Question/Q1000.h"
-#include "Question/Q1008.h"
+//#include "Question/Q1008.h"
+//#include "Question/Q10430.h"
+#include "Question/Q2588.h"
 
 int main(void)
 {
@@ -16,7 +18,9 @@ int main(void)
 	//Q10172::start();
 	//Q7287::start();
 	//Q1000::start();
-	Q1008::start();
+	//Q1008::start();
+	//Q10430::start();
+	Q2588::start();
 
 	return 0;
 }

@@ -1,0 +1,12 @@
+#include "Q2588.h"
+
+void Q2588::start()
+{
+	int a, b;
+	std::cin >> a >> b;
+
+	std::cout << a * (b % 10) << std::endl;
+	std::cout << a * (b % 100 / 10) << std::endl;
+	std::cout << a * (b / 100) << std::endl;
+	std::cout << a * b << std::endl;
+}
