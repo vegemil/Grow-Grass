@@ -127,15 +127,27 @@
     <ClCompile Include="10718.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Q1000.cpp" />
+    <ClCompile Include="Q1001.cpp" />
     <ClCompile Include="Q10171.cpp" />
     <ClCompile Include="Q10172.cpp" />
+    <ClCompile Include="Q10430.cpp" />
+    <ClCompile Include="Q10869.cpp" />
+    <ClCompile Include="Q10998.cpp" />
+    <ClCompile Include="Q1330.cpp" />
+    <ClCompile Include="Q2588.cpp" />
     <ClCompile Include="Q7287.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="10718.h" />
     <ClInclude Include="Q1000.h" />
+    <ClInclude Include="Q1001.h" />
     <ClInclude Include="Q10171.h" />
     <ClInclude Include="Q10172.h" />
+    <ClInclude Include="Q10430.h" />
+    <ClInclude Include="Q10869.h" />
+    <ClInclude Include="Q10998.h" />
+    <ClInclude Include="Q1330.h" />
+    <ClInclude Include="Q2588.h" />
     <ClInclude Include="Q7287.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
