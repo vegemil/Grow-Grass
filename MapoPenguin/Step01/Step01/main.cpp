@@ -6,10 +6,13 @@
 //#include "Q10869.h"
 //#include "Q10430.h"
 //#include "Q2588.h"
-#include "Q1330.h"
+//#include "Q1330.h"
+//#include "Q2753.h"
+//#include "Q2884.h"
+#include "Q10817.h"
 
 int main()
 {
-	Q1330();
+	Q10817();
 	return 0;
 }
