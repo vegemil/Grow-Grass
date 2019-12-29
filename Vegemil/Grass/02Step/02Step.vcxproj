@@ -140,10 +140,12 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Question\Q1330.cpp" />
+    <ClCompile Include="Question\Q2753.cpp" />
     <ClCompile Include="Question\Q9498.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Question\Q1330.h" />
+    <ClInclude Include="Question\Q2753.h" />
     <ClInclude Include="Question\Q9498.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
