@@ -140,11 +140,13 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Question\Q10950.cpp" />
+    <ClCompile Include="Question\Q15552.cpp" />
     <ClCompile Include="Question\Q2739.cpp" />
     <ClCompile Include="Question\Q8393.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Question\Q10950.h" />
+    <ClInclude Include="Question\Q15552.h" />
     <ClInclude Include="Question\Q2739.h" />
     <ClInclude Include="Question\Q8393.h" />
   </ItemGroup>
