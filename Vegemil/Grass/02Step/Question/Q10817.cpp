@@ -4,7 +4,6 @@
 
 void Q10817::start()
 {
-	int max = 0;
 	std::vector<int> input;
 
 	for (int a = 0; a < 3; ++a)
@@ -15,9 +14,6 @@ void Q10817::start()
 	}
 
 	std::sort(input.begin(), input.end());
-
-	
-
 
 	std::cout << input.at(1);
 }
