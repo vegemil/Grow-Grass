@@ -1,18 +1,8 @@
-//#include "10718.h"
-//#include "Q10171.h"
-//#include "Q10172.h"
-//#include "Q7287.h"
-//#include "Q1000.h"
-//#include "Q10869.h"
-//#include "Q10430.h"
-//#include "Q2588.h"
-//#include "Q1330.h"
-//#include "Q2753.h"
-//#include "Q2884.h"
-#include "Q10817.h"
+#include "Q8393.h"
 
 int main()
 {
-	Q10817();
+	Q8393();
+
 	return 0;
 }

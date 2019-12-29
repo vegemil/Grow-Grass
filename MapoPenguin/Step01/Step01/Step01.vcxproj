@@ -132,12 +132,16 @@
     <ClCompile Include="Q10172.cpp" />
     <ClCompile Include="Q10430.cpp" />
     <ClCompile Include="Q10869.cpp" />
+    <ClCompile Include="Q10950.cpp" />
     <ClCompile Include="Q10998.cpp" />
     <ClCompile Include="Q1330.cpp" />
+    <ClCompile Include="Q15552.cpp" />
     <ClCompile Include="Q2588.cpp" />
+    <ClCompile Include="Q2739.cpp" />
     <ClCompile Include="Q2753.cpp" />
     <ClCompile Include="Q2884.cpp" />
     <ClCompile Include="Q7287.cpp" />
+    <ClCompile Include="Q8393.cpp" />
     <ClCompile Include="Q9498.cpp" />
     <ClCompile Include="Q10817.cpp" />
   </ItemGroup>
@@ -150,12 +154,16 @@
     <ClInclude Include="Q10430.h" />
     <ClInclude Include="Q10817.h" />
     <ClInclude Include="Q10869.h" />
+    <ClInclude Include="Q10950.h" />
     <ClInclude Include="Q10998.h" />
     <ClInclude Include="Q1330.h" />
+    <ClInclude Include="Q15552.h" />
     <ClInclude Include="Q2588.h" />
+    <ClInclude Include="Q2739.h" />
     <ClInclude Include="Q2753.h" />
     <ClInclude Include="Q2884.h" />
     <ClInclude Include="Q7287.h" />
+    <ClInclude Include="Q8393.h" />
     <ClInclude Include="Q9498.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
