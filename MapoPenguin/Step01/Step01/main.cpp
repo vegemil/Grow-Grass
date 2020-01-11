@@ -1,8 +1,8 @@
-#include "Q11022.h"
+#include "Q10952.h"
 
 int main()
 {
-	Q11022();
+	Q10952();
 
 	return 0;
 }
