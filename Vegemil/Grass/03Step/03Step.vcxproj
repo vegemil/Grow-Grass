@@ -139,6 +139,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Question\Q10871.cpp" />
     <ClCompile Include="Question\Q10950.cpp" />
     <ClCompile Include="Question\Q11021.cpp" />
     <ClCompile Include="Question\Q11022.cpp" />
@@ -151,6 +152,7 @@
     <ClCompile Include="Question\Q8393.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Question\Q10871.h" />
     <ClInclude Include="Question\Q10950.h" />
     <ClInclude Include="Question\Q11021.h" />
     <ClInclude Include="Question\Q11022.h" />
