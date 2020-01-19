@@ -1,7 +1,7 @@
 #pragma once
 #include <iostream>
 
-class Q11022
+class Q2438
 {
 public:
     static void start();
