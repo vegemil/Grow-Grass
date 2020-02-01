@@ -24,9 +24,15 @@
     <ClCompile Include="Question\Q10818.cpp">
       <Filter>소스 파일\Question</Filter>
     </ClCompile>
+    <ClCompile Include="Question\Q2562.cpp">
+      <Filter>소스 파일\Question</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Question\Q10818.h">
+      <Filter>소스 파일\Question</Filter>
+    </ClInclude>
+    <ClInclude Include="Question\Q2562.h">
       <Filter>소스 파일\Question</Filter>
     </ClInclude>
   </ItemGroup>

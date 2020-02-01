@@ -1,7 +1,7 @@
-#include "Question/10818.h"
+#include "Question/Q2562.h"
 
 int main(void)
 {
-	Q10818::start();
+	Q2562::start();
 	return 0;
 }
