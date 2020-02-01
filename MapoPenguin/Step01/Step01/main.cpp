@@ -1,8 +1,9 @@
-#include "Q2562.h"
+#define _CRT_SECURE_NO_WARNINGS
+#include "Q8958.h"
 
 int main()
 {
-	Q2562();
+	Q8958();
 
 	return 0;
 }
