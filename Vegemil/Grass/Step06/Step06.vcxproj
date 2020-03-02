@@ -142,10 +142,12 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Question\Q10818.cpp" />
     <ClCompile Include="Question\Q2562.cpp" />
+    <ClCompile Include="Question\Q2577.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Question\Q10818.h" />
     <ClInclude Include="Question\Q2562.h" />
+    <ClInclude Include="Question\Q2577.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
