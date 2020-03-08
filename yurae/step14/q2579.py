@@ -6,6 +6,10 @@ def main():
 	for _ in range(n):
 		arr.append(int(sys.stdin.readline()))
 
+	if (n < 2):
+		print(arr[0])
+		return
+
 	chk = [[-1, -1, -1] for _ in range(n)]
 	chk[0] = [0, arr[0], arr[0]]
 	chk[1] = [arr[0], arr[1], arr[0] + arr[1]]
