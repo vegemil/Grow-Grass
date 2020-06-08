@@ -8,7 +8,8 @@
 //#include "Question/Q1000.h"
 //#include "Question/Q1008.h"
 //#include "Question/Q10430.h"
-#include "Question/Q2588.h"
+//#include "Question/Q2588.h"
+#include "Question/Q3052.h"
 
 int main(void)
 {
@@ -20,7 +21,8 @@ int main(void)
 	//Q1000::start();
 	//Q1008::start();
 	//Q10430::start();
-	Q2588::start();
+	//Q2588::start();
+	Q3052::start();
 
 	return 0;
 }
