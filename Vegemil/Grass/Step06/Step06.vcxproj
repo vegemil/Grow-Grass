@@ -145,6 +145,7 @@
     <ClCompile Include="Question\Q2562.cpp" />
     <ClCompile Include="Question\Q2577.cpp" />
     <ClCompile Include="Question\Q3052.cpp" />
+    <ClCompile Include="Question\Q4344.cpp" />
     <ClCompile Include="Question\Q8958.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -153,6 +154,7 @@
     <ClInclude Include="Question\Q2562.h" />
     <ClInclude Include="Question\Q2577.h" />
     <ClInclude Include="Question\Q3052.h" />
+    <ClInclude Include="Question\Q4344.h" />
     <ClInclude Include="Question\Q8958.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

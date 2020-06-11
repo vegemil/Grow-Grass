@@ -39,6 +39,9 @@
     <ClCompile Include="Question\Q8958.cpp">
       <Filter>소스 파일\Question</Filter>
     </ClCompile>
+    <ClCompile Include="Question\Q4344.cpp">
+      <Filter>소스 파일\Question</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Question\Q10818.h">
@@ -57,6 +60,9 @@
       <Filter>소스 파일\Question</Filter>
     </ClInclude>
     <ClInclude Include="Question\Q8958.h">
+      <Filter>소스 파일\Question</Filter>
+    </ClInclude>
+    <ClInclude Include="Question\Q4344.h">
       <Filter>소스 파일\Question</Filter>
     </ClInclude>
   </ItemGroup>
